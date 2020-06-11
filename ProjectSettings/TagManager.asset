@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: background
+    uniqueID: 2465012543
+    locked: 0
+  - name: reactingitems
+    uniqueID: 3062918787
+    locked: 0
+  - name: Grounds
+    uniqueID: 419914707
+    locked: 0
+  - name: curtains
+    uniqueID: 246057701
+    locked: 0
