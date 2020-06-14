@@ -1,99 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="957dfc7f-32df-4568-af9b-b16406dc94d6" name="Default Changelist" comment="initialize &#10;trying">
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/New Animation.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/New Animation.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/curtain1_left.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/curtain1_left.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Main Camera.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Main Camera.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/arch.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/arch.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/bed.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/bed.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/book_shelf.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/book_shelf.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/curtain1_left.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/curtain1_left.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/curtain1_right.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/curtain1_right.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/cylinder.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/cylinder.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/dog.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/dog.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/door.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/door.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/ground.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/ground.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/leftcurtain.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/leftcurtain.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/leftdog.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/leftdog.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/platform.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/platform.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/rightcurtain 1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/rightcurtain 1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/rightdog.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/rightdog.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/stars_and_sky.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/stars_and_sky.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/the_window.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Perfab/the_window.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/moon_library_mainroom.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/moon_library_mainroom.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/background_mainroom_moon.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/background_mainroom_moon.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/image/curtain1_right.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/image/curtain1_right.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/image/leftcurtain.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/image/leftcurtain.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/image/leftcurtain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/image/leftcurtain.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/image/動畫檔門.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/image/動畫檔門.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/image/書 動畫.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/image/書 動畫.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/image/狗們.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/image/狗們.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/image/遊戲 星空盤.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/image/遊戲 星空盤.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/image/遊戲 月亮書庫底色.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/image/遊戲 月亮書庫底色.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/image/遊戲 科瑞森書庫 零件圖.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/image/遊戲 科瑞森書庫 零件圖.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/pose.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/pose/rc_pose1.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/pose/rc_pose1.asset.meta" afterDir="false" />
+    <list default="true" id="957dfc7f-32df-4568-af9b-b16406dc94d6" name="Default Changelist" comment="scene  building complete&#10;build the scene of the moon library 6-11">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.demonstration game versin.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.demonstration game versin.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/moon_library_mainroom.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/moon_library_mainroom.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/ecaf25-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/ecaf25-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/e09cdc-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/e09cdc-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,11 +25,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/EditorUserSettings.asset" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Anima2D.meta" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/pose.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/image.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Animation.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scrips.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/background_mainroom_moon.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/background_mainroom_moon.prefab.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Perfab/arch.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/ProjectSettings.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/EditorOnlyScriptingUserSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/pose.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/TilemapEditorUserSettings.asset" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -153,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591786950964</updated>
-      <workItem from="1591786955212" duration="2204000" />
+      <workItem from="1591786955212" duration="5024000" />
     </task>
     <task id="LOCAL-00001" summary="initialize &#10;trying">
       <created>1591787570915</created>
@@ -169,7 +92,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591787815262</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="scene building&#10;build the scene of the moon library 6-11">
+      <created>1591838923093</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591838923093</updated>
+    </task>
+    <task id="LOCAL-00004" summary="scene  building complete&#10;build the scene of the moon library 6-11">
+      <created>1591856950817</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591856950817</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,16 +127,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialize &#10;trying" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialize &#10;trying" />
+    <MESSAGE value="scene building&#10;build the scene of the moon library 6-11" />
+    <MESSAGE value="scene  building complete&#10;build the scene of the moon library 6-11" />
+    <option name="LAST_COMMIT_MESSAGE" value="scene  building complete&#10;build the scene of the moon library 6-11" />
   </component>
   <component name="WindowStateProjectService">
     <state x="147" y="65" key="DiffContextDialog" timestamp="1591787061484">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1591787061484" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591787850937">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591857039973">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591787850937" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591857039973" />
   </component>
 </project>

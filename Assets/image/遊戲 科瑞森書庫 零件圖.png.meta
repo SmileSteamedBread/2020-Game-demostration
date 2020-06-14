@@ -276,12 +276,12 @@ TextureImporter:
       name: curtain2_right
       rect:
         serializedVersion: 2
-        x: 686
-        y: 1912
-        width: 1351
-        height: 1201
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 681
+        y: 1906.5668
+        width: 1353.9548
+        height: 1213.1173
+      alignment: 9
+      pivot: {x: 0.50260174, y: 0.49948445}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -456,12 +456,12 @@ TextureImporter:
       name: curtain2_left
       rect:
         serializedVersion: 2
-        x: 2210
-        y: 39
-        width: 1349
-        height: 1201
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2198.007
+        y: 30.828358
+        width: 1366.5691
+        height: 1216.2799
+      alignment: 9
+      pivot: {x: 0.50234777, y: 0.5004371}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -483,6 +483,6 @@ TextureImporter:
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
-  userData: 637274323626022707
+  userData: 637274460587026205
   assetBundleName: 
   assetBundleVariant: 
